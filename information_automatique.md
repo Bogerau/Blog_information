@@ -74,3 +74,7 @@ erDiagram
     IAG ||--|{ Illustration : "herite"
     IAG ||--|{ Prompt : "herite"
 ````
+
+**MCD**
+
+<img src="public/asset/MCD_AFP.drawio.png" alt="MCD" />
