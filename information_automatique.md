@@ -4,6 +4,9 @@
 
 **Diagramme UML**
 
+![MCD_AFP drawio](https://github.com/Bogerau/Blog_information/assets/117676537/121f3848-40fa-40a3-82fc-078557e62484)
+
+
 ````mermaid
 erDiagram
     DepecheAFP {
